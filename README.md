@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @faizan565
 - 👀 I’m interested in web development (html,css, react js, ROR, php)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C# and its relevant Frameworks.
+- 📫 You can reach me on Buttfaizan431@gmail.com
 
 <!---
 faizan565/faizan565 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
