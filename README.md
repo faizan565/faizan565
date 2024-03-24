@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faizan565
-- 👀 I’m interested in web development (html,css, react js, ROR, php)
+- 👀 I’m interested in web development (HTML, CSS, ReactJs, jQuery, Browser Extensions)
 - 🌱 I’m currently learning C# and its relevant Frameworks.
 - 📫 You can reach me on Buttfaizan431@gmail.com
 
